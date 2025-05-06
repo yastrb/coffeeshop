@@ -1,4 +1,4 @@
-import BgImage from "../../assets/bg-slate.jpg";
+import BgImage from "../../assets/bg-slate.png";
 
 const bgImage = {
   backgroundImage: `url(${BgImage})`,
